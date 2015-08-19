@@ -1,0 +1,31 @@
+Setting up git on your computer
+
+git config --global user.name "Willardgmoore"
+
+git config --global user.email "Willardgmoore@gmail.com"
+
+git config --global core.editor vim
+
+gitignore -- file.name  #ignore a file in the repo
+
+	Copy ssh key
+pbcopy < ~/.ssh/id_rsa.pub
+
+how to get in/out of insert mode
+how to save
+how to quit
+
+	Stagine files and viewing status
+git log --oneline
+git add some_file.rb #adds a file to be tracked.
+git status
+
+
+	pull from a remote repository
+
+
+ssh-keygen
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQD30YfRxPkumSblHedKRLL9JMKy0k2l1V4v59GCDSu9kznlQG26rrN3kf5/CfVip3b62SBBBxJDBQWO1xtvJZaiodEANKb+4OU8eszFo8s8Bo385vszNfTb0r13gxBl0KazqkcRJO5Z9BnEPg/F0OWRiUnomoQPG7yb5JWZ+CMSTpyuvRiC6ZGcJzlVpakF9aFafmuSyxFoCbn7zb2RfQX1jt0GPJ9Gdp1uSFBIYfHRIqmAixQf22d7+pwxLrI1Yr7Hda3HxU+9fzRwuIToP116QWksVGole+7v70LJWmJqaY9Bh+vzOXR6Caqu0YadzPY4brbFJAOpJoZQmBYufeLj5RRQ41TRUk9DpUAjzIUo5qSeUK64ZvQXPyN9nT8Hcyn+Yw7ma80wetYDglkdCKxEtzNntS80mfUxllEeIlH3W/v7DghSXdYuhTrhqlwPmw8OBRApIkE8nEMdcYFa9XSc8OwqqrGLFpNesEzkk87AgG7fEVtZftk8cka4gb81gO+1PLVW0Kdl3nfgv+R4eZD9ShD9MKNr/9VGH+JftSQ9xym4jNqxNmPVEw/7l76zh+85ejI8Zzw6u5QD11GVCY8mSs6K/3Zxp21RWjk3OBovXfCauj5jQuZR6+OUeiYZAdT2Av7UB3/Gm/0i6MVto16uzcvI4NJ9jUcp0TcWBQAlMw== willardgmoore@gmail.com
+
+
